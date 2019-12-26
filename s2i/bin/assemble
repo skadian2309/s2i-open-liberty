@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp -f $S2I_DESTINATION/src/*.war /config/apps/
+#cp -f $S2I_DESTINATION/src/*.war /config/apps/
 
 #cp -f $S2I_DESTINATION/src/server.xml /config/
