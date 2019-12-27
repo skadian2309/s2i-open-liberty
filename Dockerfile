@@ -1,4 +1,4 @@
-FROM open-liberty:microProfile2-java11
+FROM open-liberty:19.0.0.9-javaee8
 LABEL maintainer="Niklas Heidloff"
 
 ENV BUILDER_VERSION 0.0.1
