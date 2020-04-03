@@ -1,4 +1,4 @@
-FROM open-liberty:19.0.0.9-javaee8
+FROM open-liberty:kernel
 LABEL maintainer="Niklas Heidloff"
 
 ENV BUILDER_VERSION 0.0.1
