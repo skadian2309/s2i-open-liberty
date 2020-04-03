@@ -1,5 +1,5 @@
 FROM open-liberty:kernel
-LABEL maintainer="Niklas Heidloff"
+LABEL maintainer="Sumit Kadian"
 
 ENV BUILDER_VERSION 0.0.1
 
